@@ -1,3 +1,7 @@
 # for pycharm
 venv/
 /.idea/
+
+
+# for the project
+test.py
